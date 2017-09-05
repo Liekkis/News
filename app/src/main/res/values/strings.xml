@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="title_home">Home</string>
+    <string name="title_news">News</string>
+    <string name="title_live">Live</string>
+    <string name="title_video">video</string>
+    <string name="title_me">Me</string>
+    <string name="home_tab_1">头条</string>
+    <string name="home_tab_2">娱乐</string>
+    <string name="home_tab_3">体育</string>
+    <string name="home_tab_4">科技</string>
+    <string name="home_tab_5">汽车</string>
+
+</resources>
